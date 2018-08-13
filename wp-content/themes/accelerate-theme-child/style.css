@@ -131,3 +131,18 @@ div .case-study-images img {
   margin-bottom: 10%;
   border: 1px solid #e0dedf;
 }
+ul.social-media-menu {
+  list-style-type: none;
+}
+ul.social-media-menu l1 {
+  display: inline;
+}
+.menu-item i._mi {
+    width: 25px;
+    height: 25px;
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding-top: .25em;
+    border-radius: 50%;
+}
